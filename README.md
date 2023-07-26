@@ -8,7 +8,7 @@ The goal is to incorporate market equilibrium returns with personal beliefs abou
 
 ## Approach
 
-- **Data Collection**: The project begins with the gathering of historical stock data from AlphaVantage's API for a predetermined set of ticker symbols.
+- **Data Collection**: The project begins with the gathering of historical stock data using yfinance for a predetermined set of ticker symbols.
 
 - **Data Processing**: The raw data undergoes transformation into essential statistics and indicators, serving as the foundation for further analysis.
 
