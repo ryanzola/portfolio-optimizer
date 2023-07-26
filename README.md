@@ -1,6 +1,6 @@
-# Portfolio Optimizer: An Exploratory Journey
+# Portfolio Optimizer
 
-In this project, I build an optimal portfolio using the Black-Litterman model and the Efficient Frontier concept. I aim to merge market data with personal viewpoints on expected stock returns, creating a balanced blend of market consensus and individual perspective.
+I am attempting to build an optimal portfolio using the Black-Litterman model and the Efficient Frontier concept. I aim to merge market data with personal viewpoints on expected stock returns, creating a balanced blend of market consensus and individual perspective.
 
 ## Objective
 
