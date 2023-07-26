@@ -14,7 +14,7 @@ The goal is to incorporate market equilibrium returns with personal beliefs abou
 
 - **Black-Litterman Model**: The centerpiece of this project is the Black-Litterman model, enabling me to incorporate personal views about the expected returns of each stock. This addition gives a unique personal flavor to the portfolio optimization process.
 
-- **Efficient Frontier**: The concept of the Efficient Frontier is employed to identify the optimal portfolios. These portfolios offer the highest expected return for a defined level of risk, or the least risk for a given level of expected return.
+- **Efficient Frontier**: The concept of the Efficient Frontier is employed to identify the optimal portfolio. This portfolio offers the highest expected return for a defined level of risk, or the least risk for a given level of expected return.
 
 ## License
 
